@@ -18,4 +18,5 @@
 
 1. Implementation of Searching Algorithms
 2. Development of 2048 player AI
-3. 
+3. Machine Learning Methods Implementation
+4. Searching AI for solving Sudoku game using CSPs methodologies
