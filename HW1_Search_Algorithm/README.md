@@ -1,4 +1,4 @@
-#Homework 1: Search Algorithms
+# Homework 1: Search Algorithms
 
 ### I. Introduction
 
